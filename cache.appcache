@@ -40,6 +40,7 @@ js/html_actuator.js
 js/keyboard_input_manager.js
 js/local_storage_manager.js
 js/tile.js
+js/search.js
 
 favicon.ico
 
